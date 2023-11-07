@@ -1,0 +1,7 @@
+.container {
+  display: inline-flex;
+  border-style: solid;
+}
+.item {
+  border-style: solid;
+}
